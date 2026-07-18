@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual Environment
+venv/
+backend/venv/
+.venv/
+
+# Node
+frontend/node_modules/
+node_modules/
+
+# Datasets
+backend/data/
+
+# ML Models
+backend/ml/models/
+
+# Database
+*.db
+backend/nutrition.db
+backend/test.db
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
